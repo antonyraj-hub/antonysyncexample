@@ -12,7 +12,7 @@ Step 4: Explore Key Features
 
 
 
-Feature 1: [Description]
+Feature updated: [Description]
 
 
 Feature 2: [Description]

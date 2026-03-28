@@ -5,7 +5,8 @@ tep 3: Initial Setup
 [Guide on configuring settings or preferences upon first use.]
 
 Step 4: Explore Key Features
-
+testBlur.png
+![PNG](/docs/.document360/assets/testBlur.png)
 alert.png
 
 ![PNG](/docs/.document360/assets/alert.png)

@@ -20,7 +20,7 @@ Feature 2: [Description]
 Step 5: Get Help
 
 One more image to add:
-
+Updated now
 Document360_Teams_App_Integration_1.png
 ![PNG](/docs/.document360/assets/Document360_Teams_App_Integration_1.png)
 

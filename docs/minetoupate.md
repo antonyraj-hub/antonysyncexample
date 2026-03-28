@@ -6,7 +6,9 @@ tep 3: Initial Setup
 
 Step 4: Explore Key Features
 
+alert.png
 
+![PNG](/docs/.document360/assets/alert.png)
 
 [Overview of important features with brief descriptions.]
 

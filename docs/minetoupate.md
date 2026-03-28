@@ -10,10 +10,10 @@ Step 4: Explore Key Features
 
 [Overview of important features with brief descriptions.]
 
-
+MongoDB_ForestGreen.png
 
 Feature updated: [Description]
-
+![PNG](/docs/.document360/assets/MongoDB_ForestGreen.png)
 
 Feature 2: [Description]
 
